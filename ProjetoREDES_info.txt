@@ -1,0 +1,23 @@
+API biblioteca socket
+https://docs.python.org/2.6/library/socket.html
+
+Artigo falando sobre as arquiteturas
+http://projeto.unisinos.br/sbgames/anais/tutorials/Tutorial1.pdf
+
+Sobre Unicast, Broadcast e Multicast
+http://wiki.icmc.usp.br/images/9/90/Rc11-multicast.pdf
+
+Slides com calculo do trafego de rede em jogos
+http://www.cin.ufpe.br/~if748/apresentacoes/2004_07_13_VitorCavalcantiDantas_ArquiteturadeRedesparaJogos.pdf
+
+Texto legal em ingles sobre Peer-to-peer e Client/Server
+https://gafferongames.com/post/what_every_programmer_needs_to_know_about_game_networking/
+
+Criação de jogos em rede - Professor Fernando Bevilacqua
+https://gamedevelopment.tutsplus.com/tutorials/building-a-peer-to-peer-multiplayer-networked-game--gamedev-10074
+
+Informação Blender 2.49 - Adding the Player Object por codigo
+https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Python_Platformer:_Creation
+
+SOBRE UDP E TCP - Como fazer um socket com esses protocolos
+https://wiki.python.org.br/SocketBasico
