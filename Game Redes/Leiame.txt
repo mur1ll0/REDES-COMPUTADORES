@@ -1,0 +1,7 @@
+Feito com: Blender 2.49b e python 2.6
+Jogo multiplayer para até 8 jogadores.
+É necessário estar com um servidor rodando para que os clientes possam acessar o jogo.
+Controles:
+- Setas derecionais movimentam o cubo.
+- Barra de espaço faz o cubo ir mais rapido.
+- ESC sai do jogo.
