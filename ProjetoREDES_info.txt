@@ -21,3 +21,7 @@ https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Python_Platformer:_Creatio
 
 SOBRE UDP E TCP - Como fazer um socket com esses protocolos
 https://wiki.python.org.br/SocketBasico
+
+Sobre socket.select
+https://docs.python.org/2/howto/sockets.html#non-blocking-sockets
+https://stackoverflow.com/questions/17386487/python-detect-when-a-socket-disconnects-for-any-reason
